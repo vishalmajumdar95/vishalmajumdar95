@@ -14,7 +14,7 @@
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/vishalmajumdar95](https://github.com/vishalmajumdar95)<br>
-✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br>
+<!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
 ✔ 📫 How to reach me **vishalm20@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
@@ -54,12 +54,12 @@
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
       </a>
       <br>Postgress
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
@@ -72,30 +72,30 @@
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
       </a>
       <br>React
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
       </a>
       <br>Bootstrap
-    </td>
-     <td align="center" width="96">
+    </td> -->
+<!--      <td align="center" width="96">
       <a>
         <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
       </a>
       <br>AWS
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
       </a>
       <br>Heroku
-    </td>
+    </td> -->
   </tr>
 </table>
 <br>

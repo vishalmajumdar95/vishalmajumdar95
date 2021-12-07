@@ -53,12 +53,12 @@
       </a>
       <br>MySQL
     </td>
-<!--     <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
       </a>
-      <br>Postgress
-    </td> -->
+      <br>Mongodb
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>

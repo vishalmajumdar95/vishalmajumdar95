@@ -4,7 +4,7 @@
 
 <img src="./NewCloud.jpg" alt="vishal's banner" width="100%">
 
-## :raising_hand: About me:
+## 🙋‍♂️: About me:
 
 I'm a design minded full stack developer.<br>
 ◽ I'm intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b><br>
@@ -22,7 +22,6 @@ I'm a design minded full stack developer.<br>
 <a href="https://expressjs.com/" title="ExpressJS"><img src="icons/png/express.png" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/png/mongodb.png" /></a>
 <a href="https://www.w3schools.com/js/" title="Javascript"><img src="icons/png/js.png" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop"><img src="icons/png/photoshop.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/png/py.png" /></a>
 <a href="https://www.w3schools.com/css/" title="CSS"><img src="icons/png/css.png" /></a>
 <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a>
@@ -31,6 +30,7 @@ I'm a design minded full stack developer.<br>
 <a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a> -->
 <!-- <a href="https://reactjs.org/" title="React"><img src="icons/png/react.png" /></a>
 <a href="https://nextjs.org/" title="NextJS"><img src="icons/png/next.png" /></a> -->
+<!-- <a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop"><img src="icons/png/photoshop.png" /></a> -->
 <br>
 
 ##

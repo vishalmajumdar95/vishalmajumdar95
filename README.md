@@ -1,4 +1,6 @@
 # Hii, you've arrived at Vishal's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/1506237245434785796-1506237245434785796??recipient_id=1506237245434785796&text=Hello%20world).
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=vishalmajumdar95&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmajumdar95" /> </p>
+
 
 <img src="./NewCloud.jpg" alt="vishal's banner" width="100%">
 
@@ -6,8 +8,8 @@
 
 I'm a design minded full stack developer.<br>
 ◽ I'm intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b><br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies<br>
-◽ I love melted cheese<br>
+◽ I’m currently learning everything about **Frontend** and **Backend** technologies 🤣<br>
+◽ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎 and I love melted cheese 😋
 
 <br>
 <a href="https://github.com/vishalmajumdar95">

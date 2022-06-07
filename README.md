@@ -1,5 +1,6 @@
 # Hii, you've arrived at Vishal's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/1506237245434785796-1506237245434785796??recipient_id=1506237245434785796&text=Hello%20world).
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=vishalmajumdar95&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmajumdar95" /> </p>
+
+<!-- <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=vishalmajumdar95&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmajumdar95" /> </p> -->
 
 
 <img src="./NewCloud.jpg" alt="vishal's banner" width="100%">

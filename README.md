@@ -6,9 +6,9 @@
 <img src="./NewCloud.jpg" alt="vishal's banner" width="100%">
 
 ## 🙋‍♂️: About me:
-
+<!-- , <b>Game developement</b> and <b>UI designing</b><br> -->
 I'm a design minded full stack developer.<br>
-◽ I'm intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b><br>
+◽ I'm intrested in <b>Full-Stack Developement</b>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies 🤣<br>
 ◽ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎 and I love melted cheese 😋
 
